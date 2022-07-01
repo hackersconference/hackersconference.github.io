@@ -1,5 +1,5 @@
 ---
-# layout: page
+layout: page
 title: "Who"
 ---
 ## Who is Invited to the Conference?
