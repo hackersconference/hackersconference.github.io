@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Hello! World!"
+---
+
 # Hello
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
