@@ -1,6 +1,9 @@
-<html>
-<body>
-<h1>Hello</h1>
+---
+layout: page
+title: "Hello! World!"
+---
+
+# Hello
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
 eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis
@@ -17,7 +20,7 @@ dui id ornare arcu odio ut sem. Elit ut aliquam purus sit amet.
 Dolor purus non enim praesent. Quam pellentesque nec nam aliquam sem
 et. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.
 
-<h2>World</h2>
+## World
 
 Pellentesque id nibh tortor id aliquet lectus proin. Pellentesque
 diam volutpat commodo sed egestas egestas fringilla phasellus
