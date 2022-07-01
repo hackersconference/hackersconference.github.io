@@ -20,6 +20,8 @@ dui id ornare arcu odio ut sem. Elit ut aliquam purus sit amet.
 Dolor purus non enim praesent. Quam pellentesque nec nam aliquam sem
 et. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.
 
+[Register for 2022](https://docs.google.com/forms/d/e/1FAIpQLSfCNPpMFXcu2PW5rHAoytGNnLFNydT8EU53yLgeBCH4TVdtsA/viewform)
+
 ## World
 
 Pellentesque id nibh tortor id aliquet lectus proin. Pellentesque
