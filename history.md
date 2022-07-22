@@ -1,5 +1,6 @@
 ---
-title: "History"
+layout: page
+title: "About"
 ---
 
 ##  What is this conference all about?
