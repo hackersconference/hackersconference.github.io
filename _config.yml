@@ -2,17 +2,10 @@ title: Hackers Conference
 email: github@anarres.org
 baseurl: "" 
 url: "https://www.hackersconference.org" 
-color-scheme: auto
-
-# Sidebar
-sidebar:
-- name: Home
-  link: /
-- name: About
-  link: /about
 
 # Build settings
-remote_theme: BDHU/minimalist
+#remote_theme: BDHU/minimalist
+remote_theme: aterenin/minima-reboot
 plugins:
 - jekyll-remote-theme
 
@@ -35,4 +28,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-git@github.com:BDHU/minimalist.git

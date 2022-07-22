@@ -2,8 +2,6 @@
 title: "Home"
 ---
 
-# 2022 Hackers Conference 
-
 ## Conference
 
 The 2022 Hackers Conference will be 4 - 6 November at the [Chaminade Resort and Spa](https://www.chaminade.com/) in Santa Cruz, California.
