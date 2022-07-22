@@ -11,3 +11,4 @@ In early 1986, the subject of the conference came up in an on-line discussion on
 ## What's in a name?
 
 Back in 1984, there was one meaning for the word `Hacker`. it was a very complimentary, very positive word. Sadly, there's now another definition, with quite the opposite meaning. The definition created by the media means something very negative. Because the attendees to the conference feel very strongly that we should not give up the original positive meaning of the word, we decided to have two very different names for the conference. Both names appear above. You can find out more about the names and the meanings here.
+
