@@ -1,6 +1,5 @@
 ---
-layout: home
-title: "Hackers Conference"
+title: "Home"
 ---
 
 # 2022 Hackers Conference 
