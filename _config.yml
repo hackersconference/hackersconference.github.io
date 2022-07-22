@@ -1,5 +1,6 @@
-title: Hackers Conference
-email: github@anarres.org
+title: The Hackers Conference
+author: The Hackers Conference
+#email: github@anarres.org
 baseurl: "" 
 url: "https://www.hackersconference.org" 
 
