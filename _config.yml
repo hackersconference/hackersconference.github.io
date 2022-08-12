@@ -3,7 +3,7 @@ author: The Hackers Conference
 #email: github@anarres.org
 baseurl: "" 
 url: "https://www.hackersconference.org" 
-# logo: /assets/images/new-logo-48.png
+logo: /assets/images/hackers-logo-50px.png
 
 # Build settings
 #remote_theme: BDHU/minimalist
