@@ -5,10 +5,10 @@ order: 1
 
 ### Conference
 
-The 2022 Hackers Conference will be held 4 - 6 November.
+The 2023 Hackers Conference will be held 3 - 5 November.
 
 Watch your email for registration details.
 
 ### Picnic
 
-The 2022 Hackers picnic will be held 7 August.
+The 2023 Hackers picnic will be held 20 August.
