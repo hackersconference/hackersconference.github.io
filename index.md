@@ -29,3 +29,7 @@ The Hackers Conference is an annual invitation-only conference traditionally hel
 The conference is run by the "The Hackers Conference, Inc", a 501(c) non-profit corporation whose mission is to encourage the celebration and perpetuation of [hacker](http://www.catb.org/~esr/jargon/html/H/hacker.html) culture. Each year, it brings together incredible people who embody the [hacker ethos](http://www.catb.org/~esr/jargon/html/H/has-the-X-nature.html), to give them a forum to meet, communicate, and interact with others from different disciplines, to form connections, and to inspire.
 
 To learn more about the conference, see the [FAQ](https://www.hackersconference.org/faq.html). 
+
+### Current Invitees
+
+You can keep up to date on conference planning and other details by following the [wiki](https://wiki.hackersconference.org/).
