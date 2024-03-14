@@ -5,13 +5,13 @@ order: 1
 
 ### Conference
 
-The 2023 Hackers Conference will be held 3 - 5 November.
+The 39th Annual Hackers Conference will be held November 8-10, 2024.
 
 Watch your email for registration details.
 
 ### Picnic
 
-The 2023 Hackers picnic will be held 20 August.
+The 2024 Hackers picnic: Date TBD
 
 The annual picnic is the time and place for Hackers, families, your “bring-a-friends”, and people you are suggesting that we invite to the conference to get together.
 ````
@@ -20,4 +20,12 @@ Parkside Aquatic Park - Picnic Area 1
 San Mateo, CA 94401
 drive in, turn left, the tables at the far end + grassy area beyond)
 ````
-Park Information: https://www.cityofsanmateo.org/3340/Parkside-Aquatic-Park
+[Park Information](https://www.cityofsanmateo.org/3340/Parkside-Aquatic-Park)
+
+### About The Conference
+
+The Hackers Conference is an annual invitation-only conference traditionally held in the San Francisco Bay Area. The conference began in 1984, and has been held annually since 1986.
+
+The conference is run by the "The Hackers Conference, Inc", a 501(c) non-profit corporation whose mission is to encourage the celebration and perpetuation of [hacker](http://www.catb.org/~esr/jargon/html/H/hacker.html) culture. Each year, it brings together incredible people who embody the [hacker ethos](http://www.catb.org/~esr/jargon/html/H/has-the-X-nature.html), to give them a forum to meet, communicate, and interact with others from different disciplines, to form connections, and to inspire.
+
+To learn more about the conference, see the [FAQ](https://www.hackersconference.org/faq.html). 
