@@ -14,13 +14,6 @@ Watch your email for registration details.
 The 2024 Hackers picnic: Date TBD
 
 The annual picnic is the time and place for Hackers, families, your “bring-a-friends”, and people you are suggesting that we invite to the conference to get together.
-````
-Parkside Aquatic Park - Picnic Area 1
-1595 Seal Street
-San Mateo, CA 94401
-drive in, turn left, the tables at the far end + grassy area beyond)
-````
-[Park Information](https://www.cityofsanmateo.org/3340/Parkside-Aquatic-Park)
 
 ### About The Conference
 
