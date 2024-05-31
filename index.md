@@ -11,7 +11,7 @@ Watch your email for registration details.
 
 ### Picnic
 
-The 2024 Hackers picnic: Date TBD
+The 2024 Hackers picnic: August 4th
 
 The annual picnic is the time and place for Hackers, families, your “bring-a-friends”, and people you are suggesting that we invite to the conference to get together.
 
