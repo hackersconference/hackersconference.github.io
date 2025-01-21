@@ -5,9 +5,9 @@ order: 1
 
 ### Conference
 
-The 39th Annual Hackers Conference will be held November 8-10, 2024.
+The 39th Annual Hackers Conference was held November 8-10, 2024.
 
-Watch your email for registration details.
+Watch your email for details of 2025 registration.
 
 ### Picnic
 
