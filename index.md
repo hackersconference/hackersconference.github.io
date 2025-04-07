@@ -5,13 +5,13 @@ order: 1
 
 ### Conference
 
-The 39th Annual Hackers Conference was held November 8-10, 2024.
+The 40th Annual Hackers Conference will be held November 7-9, 2025.
 
 Watch your email for details of 2025 registration.
 
 ### Picnic
 
-The 2024 Hackers picnic: August 4th
+The 2025Hackers picnic: August 10th
 
 The annual picnic is the time and place for Hackers, families, your “bring-a-friends”, and people you are suggesting that we invite to the conference to get together.
 
