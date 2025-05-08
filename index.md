@@ -11,7 +11,7 @@ Watch your email for details of 2025 registration.
 
 ### Picnic
 
-The 2025Hackers picnic: August 10th
+The 2025 Hackers picnic: August 10th
 
 The annual picnic is the time and place for Hackers, families, your “bring-a-friends”, and people you are suggesting that we invite to the conference to get together.
 
