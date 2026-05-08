@@ -26,7 +26,7 @@ Some examples of inappropriate online usage are (this is a non-exhaustive list):
 
 All steering committee members will be wearing a yellow name tag. Steering committee members will also be prepared to handle incidents. All of our steering committee members are informed of the code of conduct and guide for handling incidents at the conference. There will be a mandatory steering committee meeting during conference preparation when this will be reiterated as well.
 
-Report the incident (preferably in writing) to a steering committee member - all reports are confidential.
+First, report the incident to a steering member. If you want to document your experience for follow up please provide a written description of the incident, including who else might have observed it, and send it electronically to <a href='mailto:CoC@hackersconference.org'>CoC@hackersconference.org</a>. Note that the CoC email is monitored only by Claire Griffin and Ellen Cousins. Or, if you prefer you can send your email directly to the Steering member you spoke with. All reports are confidential.
 
 When reporting the event to a steering committee member, try to gather as much information as available, but do not interview people about the incident - a steering committee member will assist you in writing the report/collecting information.
 

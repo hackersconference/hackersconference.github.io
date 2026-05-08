@@ -21,7 +21,7 @@ Prior attendees suggest people to invite who will bring something to the confere
 
 An expert in their field who tries to do the impossible... who pushes the envelope of technology. They are not the people who break into computer systems. These are the people who created the Personal Computer industry and who actually built the Internet.
 
-Even 18 years ago there was one meaning for this word... it was a very complimentary, very positive word. Sadly, there's now another definition, with quite the opposite meaning. The definition created by the media means something very negative. Many people still use the term as a compliment while some news reports and governments use the term to mean a criminal.
+When the conference was founded there was one meaning for this word... it was a very complimentary, very positive word. Sadly, there's now another definition, with quite the opposite meaning. The definition created by the media means something very negative. Many people still use the term as a compliment while some news reports and governments use the term to mean a criminal.
 
 The original meaning of the word was a very positive one, someone who is excited (intrigued, interested) by the challenge of doing things that other people say are nearly impossible; someone who has great fun finding the way to succeed by inventing an interesting solution; someone who enjoys just trying to find a way to do the impossible even if they don't actually succeed. At the Massachusetts Institute of Technology these people were referred to as `hackers` and this is the term that has survived.
 
@@ -51,11 +51,11 @@ The conference also is not a trade show with booths, exhibits, and "marketroids"
 
 ## When is the conference?
 
-The conference traditionally falls on the first weekend in November. It starts on Friday with the first session scheduled to begin at 16:00 (the registration begins at 13:00, but the sleeping accomodations won't be ready until 16:00 or so). The concluding session is Sunday ending at about 15:00 unless you've also signed up for the optional Sunday evening program which ends at about 22:00.
+The conference traditionally falls on a weekend early in November. It starts on Friday with the first session scheduled to begin at 16:00 (the registration begins at 13:00, but the sleeping accomodations won't be ready until 16:00 or so). The concluding session is Sunday ending at about 15:00 unless you've also signed up for the optional Sunday evening program which ends at about 22:00.
 
 ### Special Dinner and Sessions Sunday Evening
 
-We've got Sunday afternoon and evening sessions and events planned -- all as an optional extra-cost package. You can add this optional Sunday package either with or without a sleeping room. We'll have a smaller block of rooms available for Sunday night. This is a good chance to unwind a bit after the conference and to drive home the next day more relaxed... or perhaps to even see some of the area.
+We've got Sunday afternoon and evening sessions and events planned -- all as an optional extra-cost package. You can add this optional Sunday package either with or without a sleeping room. We'll have a smaller block of rooms available for Sunday night. This is a good chance to unwind a bit after the conference and to drive home the next day more relaxed... or perhaps to even see some of the area. Signing up for the Sunday evening program also gives you access to breakfast on Monday.
 
 ## When do things happen?
 
