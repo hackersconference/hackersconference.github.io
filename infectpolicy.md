@@ -26,7 +26,7 @@ The conference [Code of Conduct](http://www.hackersconference.org/code-of-conduc
 **Your Agreement**
 When you register for the conference, you will be asked to agree to these guidelines:
 
-* By registering for this conference, I agree that I will carefully review and, during the event and all event-related activities, comply with all applicable federal, state, and local laws, regulations, and guidance on infectious diseases and any other protocols that may be implemented by The Hackers Conference or the conference venue.
+* By registering for this conference, I agree that while at the conference I will comply with all applicable federal, state, and local laws, regulations, and guidance on infectious diseases and any other protocols that may be implemented by The Hackers Conference or the conference venue.
 
 * I acknowledge that The Hackers Conference cannot guarantee that attendees will not be exposed to or contract an infectious disease while attending the conference. By attending, they may be exposing or increasing their risk of contracting or spreading an infectious disease.
 
